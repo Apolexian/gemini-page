@@ -1,0 +1,16 @@
+# Ivan Nikitin's gemini page
+
+I am a PhD student at the University of Glasgow under the supervision of Dr Colin Perkins and Dr Ornela Dardha. 
+I work on using formal methods to improve network protocol specifications and the network protocol standardisation process. 
+Before this, I completed my undergraduate at UofG in June 2022, with my final year dissertation analysing QUIC as a transport layer for IoT devices, specifically as the transport layer for the MQTT protocol.
+
+You can email me at: i.nikitin.1[at]research.gla.ac.uk
+
+Some Links:
+
+=> https://github.com/Apolexian Github
+
+Some Stuff I have Worked On:
+
+=> https://apps.autodesk.com/FUSION/en/Detail/Index?id=5679198834514673847 OctoPrint for Fusion360
+=> https://github.com/Apolexian/level4-project-docs Source for my undergraduate dissertation

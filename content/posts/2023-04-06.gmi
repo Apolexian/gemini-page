@@ -1,0 +1,13 @@
+# Hello gemini
+
+Just a small test post to see if I figured out how to use gssg. :-)
+
+Creating a gemini page turned out pleasently simple.
+This page uses the free hosting kindly provided by Sourcehut.
+The template was generated using gssg.
+
+The source for this page can be found below.
+
+=> https://sr.ht/~gsthnz/gssg/ gssg
+=> https://sourcehut.org/blog/2021-02-18-sourcehut-pages/ Sourcehut pages
+=> https://github.com/Apolexian/gemini-page Source for my gemini page

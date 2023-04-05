@@ -1,0 +1,4 @@
+title = "Apolexian's Page"
+url = "gemini://apolexian.srht.site/"
+source_dir = "content"
+dest_dir = "public"

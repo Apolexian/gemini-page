@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>gemini://apolexian.srht.site/posts/</id>
+  <title>Apolexian-Feed</title>
+  <updated>2023-04-06T00:00:00+00:00</updated>
+  <author>
+    <name>Apolexian</name>
+    <email>ivan@niktiva.org</email>
+  </author>
+  <link href="gemini://apolexian.srht.site/atom.xml" rel="self"/>
+  <link href="gemini://apolexian.srht.site/posts/" rel="alternate"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>gemini://apolexian.srht.site/posts/2023-04-06.gmi</id>
+    <title>Hello gemini</title>
+    <updated>2023-04-06T00:00:00+00:00</updated>
+    <link href="gemini://apolexian.srht.site/posts/2023-04-06.gmi" rel="alternate"/>
+  </entry>
+</feed>

@@ -9,6 +9,7 @@ You can email me at: i.nikitin.1[at]research.gla.ac.uk
 Some Links:
 
 => https://github.com/Apolexian Github
+=> https://keys.openpgp.org/vks/v1/by-fingerprint/4D7F52D74C9C5E4873F904C46AC9F35EE1497F6F pgp key
 
 Some Stuff I have Worked On:
 

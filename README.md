@@ -2,6 +2,8 @@
 
 You can find the page at gemini://apolexian.srht.site/.
 
+Source now resides at https://git.sr.ht/~apolexian/gemini-page.
+
 generating feed:
 
 ```bash
